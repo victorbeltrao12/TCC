@@ -1,2 +1,2 @@
-# TCC
-TCC PUC - Ciência de Dados e Big Data.
+# Trabalho de conclusão de curso - Especialização em Ciência de Dados e Big Data
+Repositório de dados e códigos associados ao trabalho de conclusão de curso "Análise do Programa Internacional de Avaliação de Estudantes", desenvolvida na Especialização Lato Sensu em Ciência de Dados e Big Data da Pontifícia Universidade Católica de Minas Gerais (PUC-Minas). Este repositório contém todos os dados e implementações necessários para reproduzir os experimentos e análises apresentados no trabalho.
